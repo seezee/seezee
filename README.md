@@ -6,7 +6,7 @@ I'm a graphic designe and developer dedicated to making accessible, performant w
 I wrote these plugins to provide solutions for my own websites and decided to share them with the community.<br />
 
 
-## Find me around the web 🌎: <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/287836/88952322-e3451100-d25c-11ea-9a11-2edab934b9fd.png">
+## Find me around the web 🌎: <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/287836/88974729-b4d82d80-d27e-11ea-9ede-03d6f818e6d2.gif">
 - Web development at <a href="https://messengerwebdesign.com">Messenger Web Design</a> 🕸
 - Tinkering around on <a href="https://codepen.io/seezee">Codepen</a> 🛠
 - Sharing updates on <a href="https://twitter.com/czahller">Twitter</a> 🐦
