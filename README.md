@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Chris 👋 👨🏻‍💻
+
+<img src="https://raw.githubusercontent.com/seezee/seezee/master/gh-header-image-cropped.png" alt="banner that says Chris J. Zähller - web designer and developer, journalist, photographer alongside a cartoon illustration of Chris">
+I'm a web developer dedicated to making websites to help individuals and organizations achieve their goals. I also photograph and write at Mercury Photo Bureau. I work with HTML, PHP, JavaScript, and CSS. I wrote several plugins to provide solutions for my own websites and decided to share them with the community.
+
+
+## Find me around the web 🌎: <img align="left" width="150" height="150" src="">
+- Web development at <a href="https://messengerwebdesign.com">Messenger Web Design</a> 🕸
+- Tinkering around on <a href="https://codepen.io/seezee">Codepen</a> 🛠
+- Sharing updates on <a href="https://twitter.com/czahller">Twitter</a> 🐦
+- Writing and photographing at <a href="https://mercury.photo">Mercury Photo Bureau</a> 📷
 
 <!--
 **seezee/seezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
