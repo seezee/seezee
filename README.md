@@ -1,9 +1,9 @@
 # Hi, I'm Chris 👋 👨🏻‍💻
 
 <img src="https://user-images.githubusercontent.com/287836/88961210-4e491480-d26a-11ea-8e87-893d537e5a3a.png" alt="banner that says Chris J. Zähller - web designer and developer, journalist, photographer alongside the Messenger Web Design logo">
-I'm a web developer dedicated to making accessible, performant websites. I also photograph and write at Mercury Photo Bureau.\
+I'm a web developer dedicated to making accessible, performant websites. I also photograph and write at Mercury Photo Bureau.<br />
 
-I wrote these plugins to provide solutions for my own websites and decided to share them with the community.\
+I wrote these plugins to provide solutions for my own websites and decided to share them with the community.<br />
 
 
 ## Find me around the web 🌎: <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/287836/88952322-e3451100-d25c-11ea-9a11-2edab934b9fd.png">
