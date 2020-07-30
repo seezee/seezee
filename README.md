@@ -1,6 +1,6 @@
 # Hi, I'm Chris 👋 👨🏻‍💻
 
-<img src="https://raw.githubusercontent.com/seezee/seezee/master/gh-header-image-cropped.png" alt="banner that says Chris J. Zähller - web designer and developer, journalist, photographer alongside a the Messenger Web Design logo">
+<img src="https://user-images.githubusercontent.com/287836/88961210-4e491480-d26a-11ea-8e87-893d537e5a3a.png" alt="banner that says Chris J. Zähller - web designer and developer, journalist, photographer alongside the Messenger Web Design logo">
 I'm a web developer dedicated to making websites to help individuals and organizations achieve their goals. I also photograph and write at Mercury Photo Bureau. I work with HTML, PHP, JavaScript, and CSS. I wrote several plugins to provide solutions for my own websites and decided to share them with the community.
 
 
