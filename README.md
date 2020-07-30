@@ -4,7 +4,7 @@
 I'm a web developer dedicated to making websites to help individuals and organizations achieve their goals. I also photograph and write at Mercury Photo Bureau. I work with HTML, PHP, JavaScript, and CSS. I wrote several plugins to provide solutions for my own websites and decided to share them with the community.
 
 
-## Find me around the web 🌎: <img align="left" width="150" height="150" src="">
+## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/287836/88952322-e3451100-d25c-11ea-9a11-2edab934b9fd.png">
 - Web development at <a href="https://messengerwebdesign.com">Messenger Web Design</a> 🕸
 - Tinkering around on <a href="https://codepen.io/seezee">Codepen</a> 🛠
 - Sharing updates on <a href="https://twitter.com/czahller">Twitter</a> 🐦
