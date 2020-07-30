@@ -9,7 +9,7 @@ I'm a web developer dedicated to making websites to help individuals and organiz
 - Tinkering around on <a href="https://codepen.io/seezee">Codepen</a> 🛠
 - Sharing updates on <a href="https://twitter.com/czahller">Twitter</a> 🐦
 - Writing and photographing at <a href="https://mercury.photo">Mercury Photo Bureau</a> 📷
-
+- Networking at <a href="https://www.linkedin.com/in/chriszahller/">LinkedIn</a> 🔗
 <!--
 **seezee/seezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
