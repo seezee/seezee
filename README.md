@@ -11,7 +11,10 @@ I wrote these plugins to provide solutions for my own websites and decided to sh
 - Tinkering around on <a href="https://codepen.io/seezee">Codepen</a> 🛠
 - Sharing updates on <a href="https://twitter.com/czahller">Twitter</a> 🐦
 - Writing and photographing at <a href="https://mercury.photo">Mercury Photo Bureau</a> 📷
-- Networking at <a href="https://www.linkedin.com/in/chriszahller/">LinkedIn</a> 🔗
+- Networking at <a href="https://www.linkedin.com/in/chriszahller/">LinkedIn</a> 🔗. 
+
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=seezee)](https://github.com/seezee/github-readme-stats)
+
 <!--
 **seezee/seezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
