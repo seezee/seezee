@@ -13,7 +13,7 @@ I wrote these plugins to provide solutions for my own websites and decided to sh
 - Writing and photographing at <a href="https://mercury.photo">Mercury Photo Bureau</a> 📷
 - Networking at <a href="https://www.linkedin.com/in/chriszahller/">LinkedIn</a> 🔗. 
 
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=seezee)](https://github.com/seezee/github-readme-stats)
+[![Chris’s GitHub stats](https://github-readme-stats-git-master-chris-zahllers-projects.vercel.app/api?username=seezee&show_icons=true&theme=apprentice&include_all_commits=true)](https://github.com/seezee/github-readme-stats)
 
 <!--
 **seezee/seezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
