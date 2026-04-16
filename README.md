@@ -7,11 +7,11 @@ I wrote these plugins to provide solutions for my own websites and decided to sh
 
 
 ## Find me around the web 🌎: <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/287836/88974729-b4d82d80-d27e-11ea-9ede-03d6f818e6d2.gif">
-- Web development at <a href="https://messengerwebdesign.com">Messenger Web Design</a> 🕸
-- Tinkering around on <a href="https://codepen.io/seezee">Codepen</a> 🛠
-- Sharing updates on <a href="https://twitter.com/czahller">Twitter</a> 🐦
-- Writing and photographing at <a href="https://mercury.photo">Mercury Photo Bureau</a> 📷
-- Networking at <a href="https://www.linkedin.com/in/chriszahller/">LinkedIn</a> 🔗. 
+- Web development at [Messenger Web Design](https://messengerwebdesign.com) 🕸
+- Tinkering around on [Codepen](https://codepen.io/seezee) 🛠
+- Sharing updates on [Bluesky](https://bsky.app/profile/chris.zahller.me) 🐦
+- Writing and photographing at [Mercury Photo Bureau](https://mercury.photo) 📷
+- Networking at [LinkedIn](https://www.linkedin.com/in/chriszahller/) 🔗. 
 
 [![Chris’s GitHub stats](https://github-readme-stats-git-master-chris-zahllers-projects.vercel.app/api?username=seezee&show_icons=true&theme=apprentice&include_all_commits=true)](https://github.com/seezee/github-readme-stats)
 
