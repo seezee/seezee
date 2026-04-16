@@ -9,7 +9,7 @@ I'm a graphic designer and developer dedicated to making accessible, performant 
 - Sharing updates on [Bluesky](https://bsky.app/profile/chris.zahller.me) 🐦
 - Writing and photographing at [Mercury Photo Bureau](https://mercury.photo) 📷
 - Networking at [LinkedIn](https://www.linkedin.com/in/chriszahller/) 🔗.
-- [Learn more about me](https://chris.zahller.me) 📓. 
+- Learn more [about me](https://chris.zahller.me) 📓. 
 
 [![Chris’s GitHub stats](https://github-readme-stats-git-master-chris-zahllers-projects.vercel.app/api?username=seezee&show_icons=true&theme=apprentice&include_all_commits=true)](https://github.com/seezee/github-readme-stats)
 
